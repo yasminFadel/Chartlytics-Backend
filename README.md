@@ -1,5 +1,5 @@
 # Chartlytics-Backend
-An application for the visually impaired that solves the problem of screen readers where they are unable to read the chart content from chart images.
+An application for the visually impaired that solves the problem of screen readers where they are unable to read the chart content from chart images, by generating a chart description for the input chart image uploaded on the application.
 Our proposed solution supports data extraction from four types of charts:
 <ol>
 <li>Pie Charts
