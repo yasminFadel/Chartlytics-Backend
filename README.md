@@ -32,5 +32,6 @@ They were used in the classification and the data extraction module alongside <a
   <li>The Object detection model achieves 0.83-0.99 mAP in identifying different chart components.
   <li>The Data extraction module achieved 89.2%-100% accuracy.
   <li> Our chart description was rated as highly effective by majority of participants in our survey, with between 75% and 94% finding it to be accurate to the corresponding chart image.
+
   
 
